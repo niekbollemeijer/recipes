@@ -5,3 +5,4 @@
 * salt
 ## Instructions
 Mash it all together with care.
+Enjoy.
